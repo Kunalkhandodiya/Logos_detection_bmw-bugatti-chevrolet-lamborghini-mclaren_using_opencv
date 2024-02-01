@@ -1,0 +1,16 @@
+names:
+- BMW
+- BUGATTI
+- Chevrolet
+- Lamborghini
+- mclaren
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: -bmw-bugatti-chevrolet-lamborghini-mclaren
+  url: https://universe.roboflow.com/atef/-bmw-bugatti-chevrolet-lamborghini-mclaren/dataset/1
+  version: 1
+  workspace: atef
+test: test/images
+train: train/images
+val: valid/images
